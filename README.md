@@ -1,4 +1,5 @@
 ﻿# dataPy CADi Jesus Cuauhtemoc Tellez Gaytan
+CADi en campus Estado de México, 10 al 12 de junio.
 
 This repository contains the materials for the **Data acquisition, wrangling and exploratory analysis in Python**, three days intensive [CADi](http://sitios.itesm.mx/va/capacitacion/1_2.html) (["Cursos de Actualización en las Disciplinas"](http://sitios.itesm.mx/va/capacitacion/1_2.html)) for faculty members at ["Tecnológico de Monterrey"](https://tec.mx/es) Institute.
 
